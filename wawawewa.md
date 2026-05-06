@@ -1,3 +1,14 @@
-This is new content for the file wawawewa.md.
+# Hello World Code Example
 
-Created on branch borat.
+## Python
+```python
+print("Hello, World!")
+```
+
+## JavaScript
+```javascript
+console.log("Hello, World!");
+```
+
+## Simple Markdown Hello World
+Hello, World! This file has been updated with hello world code examples.
